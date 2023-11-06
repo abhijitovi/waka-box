@@ -13,5 +13,5 @@ jobs:
         uses: abhijitovi/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 0d22ee6183bcdf3980e0f6bbdce34a68
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
